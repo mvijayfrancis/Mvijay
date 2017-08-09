@@ -17,4 +17,4 @@ int main()
         printf("Number is ZERO");
     }
     return 0;
-} 
+}
