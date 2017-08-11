@@ -14,7 +14,6 @@ int main()
  for(;a<=g;)
  {
  cout<<a<<endl;
- //by programology
  a=a+2;
  }
 }
